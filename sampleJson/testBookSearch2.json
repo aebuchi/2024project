@@ -1,0 +1,878 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2461,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Jb3GNmCzcIoC",
+      "etag": "wa8G58rjgng",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Jb3GNmCzcIoC",
+      "volumeInfo": {
+        "title": "こころ",
+        "authors": [
+          "夏目漱石"
+        ],
+        "publisher": "Google, Inc.",
+        "publishedDate": "1952",
+        "description": "夏目漱石 -- 慶応3年1月5日(新暦2月9日)江戸牛込馬場下横町に生まれる。本名は夏目金之助。帝国大学文科大学(東京大学文学部)を卒業後、東京高等師範学校、松山中学、第五高等学校などの教師生活を経て、1900年イギリスに留学する。帰国後、第一高等学校で教鞭をとりながら、1905年処女作「吾輩は猫である」を発表。1906年「坊っちゃん」「草枕」を発表。1907年教職を辞し、朝日新聞社に入社。そして「虞美人草」「三四郎」などを発表するが、胃病に苦しむようになる。1916年12月9日、「明暗」の連載途中に胃潰瘍で永眠。享年50歳であった。(青空文庫図書カードより)",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 172,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 32,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.21.21.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Jb3GNmCzcIoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Jb3GNmCzcIoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=Jb3GNmCzcIoC&printsec=frontcover&dq=%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Jb3GNmCzcIoC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Jb3GNmCzcIoC"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Jb3GNmCzcIoC&rdid=book-Jb3GNmCzcIoC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.jp/books/download/%E3%81%93%E3%81%93%E3%82%8D.epub?id=Jb3GNmCzcIoC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.jp/books/download/%E3%81%93%E3%81%93%E3%82%8D.pdf?id=Jb3GNmCzcIoC&hl=&output=pdf&sig=ACfU3U2OrPyciDnejjdO-apy5K8TK2NbKQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Jb3GNmCzcIoC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "夏目漱石 -- 慶応3年1月5日(新暦2月9日)江戸牛込馬場下横町に生まれる。本名は夏目金之助。帝国大学文科大学(東京大学文学部)を卒業後、東京高等師範学校、松山中学、第五高等 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "i3fGEAAAQBAJ",
+      "etag": "qNogjq/Zz9w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i3fGEAAAQBAJ",
+      "volumeInfo": {
+        "title": "夏目漱石文芸論集",
+        "authors": [
+          "夏目漱石",
+          "古典名作文庫編集部"
+        ],
+        "publisher": "千歳出版",
+        "description": "『吾輩は猫である』『坊っちゃん』『三四郎』『それから』『こころ』『明暗』など、100年以上読み継がれる多くの名作を生み出し、近代日本文学を代表する文豪・夏目漱石。漱石の文芸論を多数収録。 ●収録作品 教育と文芸 批評家の立場 文学雑話 文芸委員は何をするか 文芸と道徳 文芸とヒロイツク 文芸は男子一生の事業とするに足らざる乎 文章一口話 文体の一長一短 文壇の趨勢 家庭と文学 鑑賞の統一と独立 好悪と優劣 予の描かんと欲する作品 近作小説二三について 滑稽文学の将来 客観描写と印象描写 コンラッドの描きたる自然について 作物の批評 「自然を写す文章」 写生文 処女作追懐談 人工的感興 西洋にはない 何故に小説を書くか 猫の広告文 艇長の遺書と中佐の詩 日英博覧会の美術品 明治座の所感を虚子君に問れて 虚子君へ 草平氏の論文について 田山花袋君に答う 坪内博士とハムレット 独歩氏の作に低徊趣味あり 『煤煙』の序 「額の男」を読む 高浜虚子著『鶏頭』序 岡本一平著並画『探訪画趣』序 木下杢太郎著『唐草表紙』序 『土』に就て 長塚節氏の小説「土」 『伝説の時代』序 「夢のごとし」を読む",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PKEY:BT000137210200100101900209"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 198,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=i3fGEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=i3fGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=i3fGEAAAQBAJ&printsec=frontcover&dq=%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=i3fGEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=i3fGEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 99,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 89,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=i3fGEAAAQBAJ&rdid=book-i3fGEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 99000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 89000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3%E6%96%87%E8%8A%B8%E8%AB%96%E9%9B%86-sample-epub.acsm?id=i3fGEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3%E6%96%87%E8%8A%B8%E8%AB%96%E9%9B%86-sample-pdf.acsm?id=i3fGEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i3fGEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "『吾輩は猫である』『坊っちゃん』『三四郎』『それから』『こころ』『明暗』など、100年以上読み継がれる多くの名作を生み出し、近代日本文学を代表する文豪・夏目漱石。漱 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jj9tDwAAQBAJ",
+      "etag": "hEhHBUGf3yY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jj9tDwAAQBAJ",
+      "volumeInfo": {
+        "title": "６ 夏目漱石",
+        "authors": [
+          "夏目漱石"
+        ],
+        "publisher": "学研プラス",
+        "publishedDate": "2018-09-20",
+        "description": "日本の近現代を代表する作家・詩人の名作を集成した文学全集。第６巻は夏目漱石。収録作品は、江戸っ子の新米教師が四国の中学で引き起こす騒動を描いた「坊っちゃん」、明治の知識人のエゴイズムと孤独を描いた傑作「こころ」の他、「三四郎」「夢十夜」。",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9784059164128"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "4059164127"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jj9tDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jj9tDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=jj9tDwAAQBAJ&printsec=frontcover&dq=%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jj9tDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jj9tDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1019,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 917,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=jj9tDwAAQBAJ&rdid=book-jj9tDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1019000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 917000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%96_%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3-sample-epub.acsm?id=jj9tDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%96_%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3-sample-pdf.acsm?id=jj9tDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jj9tDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "日本の近現代を代表する作家・詩人の名作を集成した文学全集。第6巻は夏目漱石。収録作品は、江戸っ子の新米教師が四国の中学で引き起こす騒動を描いた「坊っちゃん」、明 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oNmVEAAAQBAJ",
+      "etag": "DJHBz6Vb+Zk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oNmVEAAAQBAJ",
+      "volumeInfo": {
+        "title": "決定版 夏目漱石全集",
+        "authors": [
+          "夏目漱石",
+          "文豪e叢書編集部"
+        ],
+        "publisher": "千歳出版",
+        "description": "近代日本文学を代表する文豪・夏目漱石の、初期から最晩年までの傑作小説、随筆、評論、さらに同時代の作家の評伝など約160作品を収録し、読みやすく編集した夏目漱石全集の決定版です。 ■目次 【小説】 坊っちゃん 吾輩は猫である 吾輩ハ猫デアル（旧字旧仮名） 三四郎 こころ それから それから（新字旧仮名） 草枕 二百十日 野分 虞美人草 坑夫 門 門（旧字旧仮名） 彼岸過迄 行人 道草 明暗 【短編・小品・随筆】 幻影の盾 琴のそら音 倫敦消息 京に着ける夕 京に着ける夕（旧字旧仮名） 自転車日記 倫敦塔 カーライル博物館 文鳥 夢十夜 永日小品 長谷川君と余 思い出す事など 子規の画 子規の畫（旧字旧仮名） 変な音 變な音（旧字旧仮名） ケーベル先生 ケーベル先生の告別 戦争からきた行き違い 初秋の一日 三山居士 硝子戸の中 一夜 薤露行 趣味の遺伝 手紙 【評論・その他】 吾輩は猫である（上篇自序） 吾輩は猫である（中篇自序） 吾輩は猫である（下篇自序） 三四郎（予告） こころ（広告文） こころ（自序） こころ（予告） それから（予告） イズムの功過 岡本一平著並画『探訪画趣』序 学者と名誉 家庭と文学 鑑賞の統一と独立 元日 鬼哭寺の一夜 木下杢太郎著『唐草表紙』序 客観描写と印象描写 教育と文芸 虚子君へ 近作小説二三について 現代日本の開化 好悪と優劣 滑稽文学の将来 コンラッドの描きたる自然について 作物の批評 「自然を写す文章」 写生文 処女作追懐談 人工的感興 人生 鈴木三重吉宛書簡―明治三十九年 西洋にはない 創作家の態度 草平氏の論文について 高浜虚子著『鶏頭』序 田山花袋君に答う 「土』に就て 「土」に就て（旧字旧仮名版） 長塚節氏の小説「土」 坪内博士とハムレット つり鐘の好きな人 艇長の遺書と中佐の詩 『伝説の時代』序 点頭録 『東洋美術図譜』 道楽と職業 独歩氏の作に低徊趣味あり 中味と形式 夏 何故に小説を書くか 日英博覧会の美術品 入社の辞 猫の広告文 『煤煙』の序 博士問題 博士問題とマードック先生と余 博士問題の成行 「額の男」を讀む 批評家の立場 文学雑話 文芸委員は何をするか 文芸と道徳 文芸とヒロイツク 文芸の哲学的基礎 文芸は男子一生の事業とするに足らざる乎 文士の生活 文章一口話 文体の一長一短 文壇の趨勢 僕の昔 マードック先生の『日本歴史』 正岡子規 満韓ところどころ 水底の感 無題 明治座の所感を虚子君に問れて 模倣と独立 「夢のごとし」を読む 余と万年筆 予の描かんと欲する作品 落第 私の経過した学生時代 私の個人主義 【関連作品】 文芸的な、余りに文芸的な（芥川龍之介） 漱石山房の冬（芥川龍之介） 夏目先生と滝田さん（芥川龍之介） 葬儀記（芥川龍之介） 漱石と自分（狩野亨吉） 漱石氏と私（高浜虚子） 埋もれた漱石伝記資料（寺田寅彦） 夏目先生の俳句と漢詩（寺田寅彦） 夏目漱石先生の追憶（寺田寅彦） 俳諧瑣談（寺田寅彦） 根岸庵を訪う記（寺田寅彦） 漱石さんのロンドンにおけるエピソード（土井晩翠） 「漱石のオセロ」はしがき（野上豊一郎） 小川芋銭先生と私（野口雨情） 夏目漱石論（森鴎外） 漱石の人物（和辻哲郎） 夏目先生の追憶（和辻哲郎）",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PKEY:BT000124008000100101900209"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 4483,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oNmVEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oNmVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=oNmVEAAAQBAJ&printsec=frontcover&dq=%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=oNmVEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=oNmVEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 691,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 622,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=oNmVEAAAQBAJ&rdid=book-oNmVEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 691000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 622000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E6%B1%BA%E5%AE%9A%E7%89%88_%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3%E5%85%A8%E9%9B%86-sample-epub.acsm?id=oNmVEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E6%B1%BA%E5%AE%9A%E7%89%88_%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3%E5%85%A8%E9%9B%86-sample-pdf.acsm?id=oNmVEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oNmVEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "近代日本文学を代表する文豪・夏目漱石の、初期から最晩年までの傑作小説、随筆、評論、さらに同時代の作家の評伝など約160作品を収録し、読みやすく編集した夏目漱石全集の ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fXuXEAAAQBAJ",
+      "etag": "j68pcJPZvDY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fXuXEAAAQBAJ",
+      "volumeInfo": {
+        "title": "夏目漱石全集",
+        "authors": [
+          "夏目漱石",
+          "新日本文学電子大系編集部"
+        ],
+        "publisher": "千歳出版",
+        "description": "「坊っちゃん」「吾輩は猫である」「草枕」「それから」「こころ」「三四郎」などの代表作から「客観描写と印象描写」などの知られざる名作、関連作品まで一冊に収録した電子版夏目漱石全集。小説、評論・随筆など、ジャンル別目次から読みたい作品をすぐにお読みいただけます。 【小説】※発表年代順 吾輩は猫である 吾輩ハ猫デアル（旧字旧仮名版） 倫敦塔 幻影の盾 琴のそら音 一夜 薤露行(かいろこう) 趣味の遺伝 坊っちゃん 草枕 二百十日 野分 虞美人草 坑夫 文鳥 夢十夜 永日小品 三四郎 それから それから（旧仮名版） 門 門（旧字旧仮名版） 彼岸過迄 行人 こころ 道草 明暗 【評論・随筆など】※五十音順 イズムの功過 岡本一平著並画『探訪画趣』序 おはなし 思い出す事など カーライル博物館 学者と名誉 家庭と文学 硝子戸の中 鑑賞の統一と独立 元日 鬼哭寺の一夜 木下杢太郎著『唐草表紙』序 客観描写と印象描写 教育と文芸 京に着ける夕 京に着ける夕（旧字旧仮名版） 虚子君へ 近作小説二三について ケーベル先生 ケーベル先生の告別 現代日本の開化 好悪と優劣 こころ（広告文） こころ（自序） こころ（予告） 滑稽文学の将来 コンラッドの描きたる自然について 作物の批評 三山(さんざん)居士(こじ) 三四郎（予告） 子規の画 子規の画（旧字旧仮名版） 「自然を写す文章」 自転車日記 写生文 従軍行 初秋の一日 処女作追懐談 人工的感興 人生 鈴木三重吉宛書簡―明治三十九年 西洋にはない 戦争からきた行き違い 創作家の態度 草平氏の論文について それから（予告） 高浜虚子著『鶏頭』序 田山花袋君に答う 「土』に就て 「土」に就て（旧字旧仮名版） 長塚節氏の小説「土」 坪内博士とハムレット つり鐘の好きな人 艇長の遺書と中佐の詩 手紙 『伝説の時代』序 点頭録 『東洋美術図譜』 道楽と職業 独歩氏の作に低徊趣味あり 中味と形式 夏 何故に小説を書くか 日英博覧会の美術品 入社の辞 猫の広告文 『煤煙』の序 博士問題 博士問題とマードック先生と余 博士問題の成行 長谷川君と余 「額の男」を読む 批評家の立場 文学雑話 文芸委員は何をするか 文芸と道徳 文芸とヒロイツク 文芸の哲学的基礎 文芸は男子一生の事業とするに足らざる乎 文士の生活 文章一口話 文体の一長一短 文壇の趨勢 変な音 変な音（旧字旧仮名版） 僕の昔 マードック先生の『日本歴史』 正岡子規 満韓ところどころ 水底の感 無題 明治座の所感を虚子君に問れて 模倣と独立 「夢のごとし」を読む 余と万年筆 予の描かんと欲する作品 落第 倫敦消息 吾輩は猫である（上篇自序） 吾輩は猫である（中篇自序） 吾輩は猫である（下篇自序） 私の経過した学生時代 私の個人主義 【関連作品】 漱石の人物（和辻哲郎） 夏目先生の追憶（和辻哲郎） 夏目漱石論（森鴎外） 小川芋銭先生と私（野口雨情） 「漱石のオセロ」はしがき（野上豊一郎） 胡堂百話（野村胡堂） 世界の一環としての日本［抄］（戸坂潤） 埋もれた漱石伝記資料（寺田寅彦） 夏目先生の俳句と漢詩（寺田寅彦） 夏目漱石先生の追憶（寺田寅彦） 俳諧瑣談（寺田寅彦） 根岸庵を訪う記（寺田寅彦） 漱石山房の冬（芥川竜之介） 夏目先生と滝田さん（芥川竜之介） 葬儀記（芥川竜之介） 文芸的な、余りに文芸的な（芥川竜之介） 漱石と自分（狩野亨吉） 漱石氏と私（高浜虚子） 漱石さんのロンドンにおけるエピソード（土井晩翠）",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PKEY:BT000124400100100101900209"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 4795,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fXuXEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fXuXEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=fXuXEAAAQBAJ&printsec=frontcover&dq=%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fXuXEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fXuXEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 591,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 532,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=fXuXEAAAQBAJ&rdid=book-fXuXEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 591000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 532000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3%E5%85%A8%E9%9B%86-sample-epub.acsm?id=fXuXEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3%E5%85%A8%E9%9B%86-sample-pdf.acsm?id=fXuXEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fXuXEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "「坊っちゃん」「吾輩は猫である」「草枕」「それから」「こころ」「三四郎」などの代表作から「客観描写と印象描写」などの知られざる名作、関連作品まで一冊に収録した電 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wqyjEAAAQBAJ",
+      "etag": "WE/wJ3qg+vE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wqyjEAAAQBAJ",
+      "volumeInfo": {
+        "title": "夏目漱石 文芸・文明論集",
+        "authors": [
+          "夏目漱石",
+          "日本文学電子選集編集部"
+        ],
+        "publisher": "千歳出版",
+        "description": "近代日本文学を代表する文豪であり、文明批評家としても名高い夏目漱石。個人主義や西洋文明、近代国家、文学芸術を鋭く批評した代表的評論・随筆・講演録を一挙収録。 ●収録作品 イズムの功過 学者と名誉 家庭と文学 鑑賞の統一と独立 元日 鬼哭寺の一夜 客観描写と印象描写 教育と文芸 虚子君へ 近作小説二三について 現代日本の開化 好悪と優劣 滑稽文学の将来 コンラッドの描きたる自然について 作物の批評 「自然を写す文章」 写生文 処女作追懐談 人工的感興 人生 鈴木三重吉宛書簡―明治三十九年 西洋にはない 創作家の態度 草平氏の論文について 田山花袋君に答う 「土」に就て 長塚節氏の小説「土」 坪内博士とハムレット つり鐘の好きな人 艇長の遺書と中佐の詩 点頭録 『東洋美術図譜』 道楽と職業 独歩氏の作に低徊趣味あり 中味と形式 夏 何故に小説を書くか 日英博覧会の美術品 入社の辞 博士問題 博士問題とマードック先生と余 博士問題の成行 「額の男」を讀む 批評家の立場 文学雑話 文芸委員は何をするか 文芸と道徳 文芸とヒロイック 文芸の哲学的基礎 文芸は男子一生の事業とするに足らざる乎 文士の生活 文章一口話 文体の一長一短 文壇の趨勢 僕の昔 マードック先生の『日本歴史』 正岡子規 満韓ところどころ 水底の感 無題 明治座の所感を虚子君に問れて 模倣と独立 「夢のごとし」を読む 余と万年筆 予の描かんと欲する作品 落第 私の経過した学生時代 私の個人主義",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PKEY:BT000128103000300301900209"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 516,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wqyjEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wqyjEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=wqyjEAAAQBAJ&printsec=frontcover&dq=%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wqyjEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wqyjEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 759,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 683,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=wqyjEAAAQBAJ&rdid=book-wqyjEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 759000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 683000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3_%E6%96%87%E8%8A%B8_%E6%96%87%E6%98%8E%E8%AB%96%E9%9B%86-sample-epub.acsm?id=wqyjEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3_%E6%96%87%E8%8A%B8_%E6%96%87%E6%98%8E%E8%AB%96%E9%9B%86-sample-pdf.acsm?id=wqyjEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wqyjEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "近代日本文学を代表する文豪であり、文明批評家としても名高い夏目漱石。個人主義や西洋文明、近代国家、文学芸術を鋭く批評した代表的評論・随筆・講演録を一挙収録。 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DtJ5EAAAQBAJ",
+      "etag": "plJX0Mcd9lY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DtJ5EAAAQBAJ",
+      "volumeInfo": {
+        "title": "夏目漱石 電子全集9",
+        "authors": [
+          "夏目漱石",
+          "日本文学電子全集編集委員会"
+        ],
+        "publisher": "電書バト",
+        "publishedDate": "2022-04-22",
+        "description": "夏目漱石の名作・代表作を一挙収録した夏目漱石全集の決定版。※本書は全９巻中の９巻目です。 ●目次 つり鐘の好きな人 艇長の遺書と中佐の詩 点頭録 『東洋美術図譜』 道楽と職業 独歩氏の作に低徊趣味あり 中味と形式 夏 何故に小説を書くか 日英博覧会の美術品 入社の辞 猫の広告文 博士問題 博士問題とマードック先生と余 博士問題の成行 「額の男」を読む 批評家の立場 文学雑話 文芸委員は何をするか 文芸と道徳 文芸とヒロイツク 文芸の哲学的基礎 文芸は男子一生の事業とするに足らざる乎 文士の生活 ほか全47篇",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PKEY:BT000117295900900901900209"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 315,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DtJ5EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DtJ5EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=DtJ5EAAAQBAJ&printsec=frontcover&dq=%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=DtJ5EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DtJ5EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 199,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 179,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=DtJ5EAAAQBAJ&rdid=book-DtJ5EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 199000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 179000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3_%E9%9B%BB%E5%AD%90%E5%85%A8%E9%9B%869-sample-epub.acsm?id=DtJ5EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3_%E9%9B%BB%E5%AD%90%E5%85%A8%E9%9B%869-sample-pdf.acsm?id=DtJ5EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DtJ5EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "夏目漱石の名作・代表作を一挙収録した夏目漱石全集の決定版。※本書は全9巻中の9巻目です。 ●目次 つり鐘の好きな人 艇長の遺書と中佐の詩 点頭録 『東洋美術図譜』 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "i_RDvgAACAAJ",
+      "etag": "dNI9G9fn03E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i_RDvgAACAAJ",
+      "volumeInfo": {
+        "title": "夏目漱石",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:29894719"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Authors, Japanese"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=i_RDvgAACAAJ&dq=%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=i_RDvgAACAAJ&dq=%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3.html?hl=&id=i_RDvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i_RDvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xNF5EAAAQBAJ",
+      "etag": "04QsvGSEj0Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xNF5EAAAQBAJ",
+      "volumeInfo": {
+        "title": "夏目漱石 電子全集8",
+        "authors": [
+          "夏目漱石",
+          "日本文学電子全集編集委員会"
+        ],
+        "publisher": "電書バト",
+        "publishedDate": "2022-04-22",
+        "description": "夏目漱石の名作・代表作を一挙収録した夏目漱石全集の決定版。※本書は全９巻中の８巻目です。 ●目次 京に着ける夕 元日 長谷川君と余 子規の画 ケーベル先生 ケーベル先生の告別 変な音 手紙 三山居士 初秋の一日 戦争からきた行き違い 硝子戸の中 イズムの功過 おはなし 学者と名誉 家庭と文学 鑑賞の統一と独立 鬼哭寺の一夜 客観描写と印象描写 教育と文芸 虚子君へ 近作小説二三について 現代日本の開化 好悪と優劣 滑稽文学の将来 コンラッドの描きたる自然について ほか全41篇",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PKEY:BT000117295900800801900209"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 337,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xNF5EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xNF5EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=xNF5EAAAQBAJ&printsec=frontcover&dq=%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=xNF5EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xNF5EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 199,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 179,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=xNF5EAAAQBAJ&rdid=book-xNF5EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 199000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 179000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3_%E9%9B%BB%E5%AD%90%E5%85%A8%E9%9B%868-sample-epub.acsm?id=xNF5EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3_%E9%9B%BB%E5%AD%90%E5%85%A8%E9%9B%868-sample-pdf.acsm?id=xNF5EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xNF5EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "夏目漱石の名作・代表作を一挙収録した夏目漱石全集の決定版。※本書は全9巻中の8巻目です。 ●目次 京に着ける夕 元日 長谷川君と余 子規の画 ケーベル先生 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZqyjEAAAQBAJ",
+      "etag": "spCBPFxQKeo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZqyjEAAAQBAJ",
+      "volumeInfo": {
+        "title": "夏目漱石 長編小説全集",
+        "authors": [
+          "夏目漱石",
+          "日本文学電子選集編集部"
+        ],
+        "publisher": "千歳出版",
+        "description": "近代日本文学を代表する文豪・夏目漱石の代表作を年代順に一挙収録。 ●収録作品 吾輩は猫である（1905年） 坊っちゃん（1906年） 草枕（1906年） 二百十日（1906年） 野分（1907年） 虞美人草（1907年） 坑夫（1908年） 三四郎（1908年） それから（1909年） 門（1910年） 彼岸過迄（1912年） 行人（1912年） こころ（1914年） 道草（1915年） 明暗（1916年）",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PKEY:BT000128103000100101900209"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 2818,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZqyjEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZqyjEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=ZqyjEAAAQBAJ&printsec=frontcover&dq=%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZqyjEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZqyjEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 759,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 683,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZqyjEAAAQBAJ&rdid=book-ZqyjEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 759000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 683000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3_%E9%95%B7%E7%B7%A8%E5%B0%8F%E8%AA%AC%E5%85%A8%E9%9B%86-sample-epub.acsm?id=ZqyjEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3_%E9%95%B7%E7%B7%A8%E5%B0%8F%E8%AA%AC%E5%85%A8%E9%9B%86-sample-pdf.acsm?id=ZqyjEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZqyjEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "近代日本文学を代表する文豪・夏目漱石の代表作を年代順に一挙収録。 ●収録作品 吾輩は猫である（1905年） 坊っちゃん（1906年） 草枕（1906年） 二百十日（1906年） ..."
+      }
+    }
+  ]
+}

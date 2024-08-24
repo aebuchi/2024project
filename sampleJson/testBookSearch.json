@@ -1,0 +1,74 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2461,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Jb3GNmCzcIoC",
+      "etag": "wa8G58rjgng",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Jb3GNmCzcIoC",
+      "volumeInfo": {
+        "title": "こころ",
+        "authors": [
+          "夏目漱石"
+        ],
+        "publisher": "Google, Inc.",
+        "publishedDate": "1952",
+        "description": "夏目漱石 -- 慶応3年1月5日(新暦2月9日)江戸牛込馬場下横町に生まれる。本名は夏目金之助。帝国大学文科大学(東京大学文学部)を卒業後、東京高等師範学校、松山中学、第五高等学校などの教師生活を経て、1900年イギリスに留学する。帰国後、第一高等学校で教鞭をとりながら、1905年処女作「吾輩は猫である」を発表。1906年「坊っちゃん」「草枕」を発表。1907年教職を辞し、朝日新聞社に入社。そして「虞美人草」「三四郎」などを発表するが、胃病に苦しむようになる。1916年12月9日、「明暗」の連載途中に胃潰瘍で永眠。享年50歳であった。(青空文庫図書カードより)",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 172,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 32,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.21.21.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Jb3GNmCzcIoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Jb3GNmCzcIoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=Jb3GNmCzcIoC&printsec=frontcover&dq=%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Jb3GNmCzcIoC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Jb3GNmCzcIoC"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Jb3GNmCzcIoC&rdid=book-Jb3GNmCzcIoC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.jp/books/download/%E3%81%93%E3%81%93%E3%82%8D.epub?id=Jb3GNmCzcIoC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.jp/books/download/%E3%81%93%E3%81%93%E3%82%8D.pdf?id=Jb3GNmCzcIoC&hl=&output=pdf&sig=ACfU3U2OrPyciDnejjdO-apy5K8TK2NbKQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Jb3GNmCzcIoC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "夏目漱石 -- 慶応3年1月5日(新暦2月9日)江戸牛込馬場下横町に生まれる。本名は夏目金之助。帝国大学文科大学(東京大学文学部)を卒業後、東京高等師範学校、松山中学、第五高等 ..."
+      }
+    }
+  ]
+}

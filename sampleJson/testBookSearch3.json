@@ -1,0 +1,755 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 200,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "7NlFzwEACAAJ",
+      "etag": "JkqZ0vZ5++Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7NlFzwEACAAJ",
+      "volumeInfo": {
+        "title": "村上春樹全作品, 1979-1989: ノルウェイの森",
+        "authors": [
+          "村上春樹"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "4061879316"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9784061879317"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=7NlFzwEACAAJ&dq=inauthor:%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=7NlFzwEACAAJ&dq=inauthor:%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9%E5%85%A8%E4%BD%9C%E5%93%81_1979_1989_%E3%83%8E%E3%83%AB.html?hl=&id=7NlFzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7NlFzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gbLeDwAAQBAJ",
+      "etag": "10l1bJ7wFS0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gbLeDwAAQBAJ",
+      "volumeInfo": {
+        "title": "みみずくは黄昏に飛びたつ―川上未映子 訊く／村上春樹 語る―（新潮文庫）",
+        "authors": [
+          "川上未映子",
+          "村上春樹"
+        ],
+        "publisher": "新潮社",
+        "publishedDate": "2019-12-01",
+        "description": "ようこそ、村上さんの井戸へ――川上未映子はそう語り始める。少年期の記憶、意識と無意識、「地下二階」に降りること、フェミニズム、世界的名声、比喩や文体、日々の創作の秘密、そして死後のこと……。初期エッセイから最新長編まで、すべての作品と資料を精読し、「村上春樹」の最深部に鋭く迫る。十代から村上文学の愛読者だった作家の計13時間に及ぶ、比類なき超ロングインタビュー！",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PKEY:BT000075328200100101900209"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 246,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gbLeDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gbLeDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=gbLeDwAAQBAJ&printsec=frontcover&dq=inauthor:%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gbLeDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gbLeDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 825,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 742,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gbLeDwAAQBAJ&rdid=book-gbLeDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 825000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 742000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E3%81%BF%E3%81%BF%E3%81%9A%E3%81%8F%E3%81%AF%E9%BB%84%E6%98%8F%E3%81%AB%E9%A3%9B%E3%81%B3%E3%81%9F%E3%81%A4_%E5%B7%9D-sample-epub.acsm?id=gbLeDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E3%81%BF%E3%81%BF%E3%81%9A%E3%81%8F%E3%81%AF%E9%BB%84%E6%98%8F%E3%81%AB%E9%A3%9B%E3%81%B3%E3%81%9F%E3%81%A4_%E5%B7%9D-sample-pdf.acsm?id=gbLeDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gbLeDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ようこそ、村上さんの井戸へ――川上未映子はそう語り始める。少年期の記憶、意識と無意識、「地下二階」に降りること、フェミニズム、世界的名声、比喩や文体、日々の創作 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JFEwAQAAIAAJ",
+      "etag": "WFiiLJSwzTg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JFEwAQAAIAAJ",
+      "volumeInfo": {
+        "title": "愛について語るときに我々の語ること",
+        "authors": [
+          "レイモンド・カーヴァー"
+        ],
+        "publishedDate": "2006-07",
+        "description": "アグレッシヴな小説作法とミステリアスなタイトリングで、作家カーヴァーの文学的アイデンティティを深く刻印する本書は、八〇年代アメリカ文学にカルト的ともいえる影響を及ぼした。転換期の生々しい息づかいを伝える、鮮やかにして大胆な短篇集。",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSD:31822036909794"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "categories": [
+          "Short stories"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JFEwAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JFEwAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=JFEwAQAAIAAJ&dq=inauthor:%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=JFEwAQAAIAAJ&dq=inauthor:%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%E6%84%9B%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%9E%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AB%E6%88%91%E3%80%85%E3%81%AE.html?hl=&id=JFEwAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JFEwAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "アグレッシヴな小説作法とミステリアスなタイトリングで、作家カーヴァーの文学的アイデンティティを深く刻印する本書は、八〇年代アメリカ文学にカルト的ともいえる影響を ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zPBbvgAACAAJ",
+      "etag": "VMG4VRPzV94",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zPBbvgAACAAJ",
+      "volumeInfo": {
+        "title": "職業としての小説家",
+        "authors": [
+          "村上春樹"
+        ],
+        "publishedDate": "2016-09",
+        "description": "村上春樹が書く“村上春樹 ”! 小説家の生き方、小説の書き方を語り尽くした稀有な一冊!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "4101001693"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9784101001692"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zPBbvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zPBbvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=zPBbvgAACAAJ&dq=inauthor:%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=zPBbvgAACAAJ&dq=inauthor:%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%E8%81%B7%E6%A5%AD%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E5%B0%8F%E8%AA%AC%E5%AE%B6.html?hl=&id=zPBbvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zPBbvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "村上春樹が書く“村上春樹 ”! 小説家の生き方、小説の書き方を語り尽くした稀有な一冊!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5BvtDwAAQBAJ",
+      "etag": "XKrzfvIpSmk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5BvtDwAAQBAJ",
+      "volumeInfo": {
+        "title": "村上春樹 雑文集（新潮文庫）",
+        "authors": [
+          "村上春樹"
+        ],
+        "publisher": "新潮社",
+        "publishedDate": "2015-11-01",
+        "description": "デビュー小説『風の歌を聴け』新人賞受賞の言葉、伝説のエルサレム賞スピーチ「壁と卵」（日本語全文）、人物論や小説論、心にしみる音楽や人生の話……多岐にわたる文章のすべてに著者書下ろしの序文を付したファン必読の69編！ お蔵入りの超短篇小説や結婚式のメッセージはじめ、未収録・未発表の文章が満載。素顔の村上春樹を語る安西水丸・和田誠の愉しい解説対談と挿画付。",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PKEY:BT000081632800100101900209"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 290,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5BvtDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5BvtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=5BvtDwAAQBAJ&printsec=frontcover&dq=inauthor:%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=5BvtDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5BvtDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 825,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 742,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=5BvtDwAAQBAJ&rdid=book-5BvtDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 825000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 742000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9_%E9%9B%91%E6%96%87%E9%9B%86_%E6%96%B0%E6%BD%AE%E6%96%87%E5%BA%AB-sample-epub.acsm?id=5BvtDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9_%E9%9B%91%E6%96%87%E9%9B%86_%E6%96%B0%E6%BD%AE%E6%96%87%E5%BA%AB-sample-pdf.acsm?id=5BvtDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5BvtDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "デビュー小説『風の歌を聴け』新人賞受賞の言葉、伝説のエルサレム賞スピーチ「壁と卵」（日本語全文）、人物論や小説論、心にしみる音楽や人生の話……多岐にわたる文章の ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nI5sPQAACAAJ",
+      "etag": "BHkRa4rFGuQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nI5sPQAACAAJ",
+      "volumeInfo": {
+        "title": "アフターダーク",
+        "authors": [
+          "村上春樹"
+        ],
+        "publisher": "Kodansha",
+        "publishedDate": "2006-09",
+        "description": "時計の針が深夜零時を指すほんの少し前、都会にあるファミレスで熱心に本を読んでいる女性がいた。フード付きパーカにブルージーンズという姿の彼女のもとに、ひとりの男性が近づいて声をかける。そして、同じ時刻、ある視線が、もう一人の若い女性をとらえる―。新しい小説世界に向かう、村上春樹の長編。",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "406275519X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9784062755191"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 294,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nI5sPQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nI5sPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=nI5sPQAACAAJ&dq=inauthor:%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=nI5sPQAACAAJ&dq=inauthor:%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%83%80%E3%83%BC%E3%82%AF.html?hl=&id=nI5sPQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nI5sPQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "時計の針が深夜零時を指すほんの少し前、都会にあるファミレスで熱心に本を読んでいる女性がいた。フード付きパーカにブルージーンズという姿の彼女のもとに、ひとりの男性 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zDu0DQAAQBAJ",
+      "etag": "lp9ByaUxurg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zDu0DQAAQBAJ",
+      "volumeInfo": {
+        "title": "村上春樹、河合隼雄に会いにいく",
+        "authors": [
+          "河合隼雄",
+          "村上春樹"
+        ],
+        "publisher": "新潮社",
+        "publishedDate": "1999-01-01",
+        "description": "村上春樹が語るアメリカ体験や1960年代学生紛争、オウム事件と阪神大震災の衝撃を、河合隼雄は深く受けとめ、箱庭療法の奥深さや、一人一人が独自の「物語」を生きることの重要さを訴える。「個人は日本歴史といかに結びつくか」から「結婚生活の勘どころ」まで、現場の最先端からの思索はやがて、疲弊した日本社会こそ、いまポジティブな転換点にあることを浮き彫りにする。",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PKEY:BT000041660300100101900209"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 104,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zDu0DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zDu0DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=zDu0DQAAQBAJ&printsec=frontcover&dq=inauthor:%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zDu0DQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zDu0DQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 539,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 485,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=zDu0DQAAQBAJ&rdid=book-zDu0DQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 539000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 485000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9_%E6%B2%B3%E5%90%88%E9%9A%BC%E9%9B%84%E3%81%AB%E4%BC%9A%E3%81%84%E3%81%AB%E3%81%84-sample-epub.acsm?id=zDu0DQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9_%E6%B2%B3%E5%90%88%E9%9A%BC%E9%9B%84%E3%81%AB%E4%BC%9A%E3%81%84%E3%81%AB%E3%81%84-sample-pdf.acsm?id=zDu0DQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zDu0DQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "村上春樹が語るアメリカ体験や1960年代学生紛争、オウム事件と阪神大震災の衝撃を、河合隼雄は深く受けとめ、箱庭療法の奥深さや、一人一人が独自の「物語」を生きることの ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sM6aPwAACAAJ",
+      "etag": "axWW0ZAUwDw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sM6aPwAACAAJ",
+      "volumeInfo": {
+        "title": "羊をめぐる冒険",
+        "authors": [
+          "村上春樹"
+        ],
+        "publishedDate": "2004-11",
+        "description": "あなたのことは今でも好きよ、という言葉を残して妻が出て行った。その後広告コピーの仕事を通して、耳専門のモデルをしている二十一歳の女性が新しいガール・フレンドとなった。北海道に渡ったらしい“鼠”の手紙から、ある日羊をめぐる冒険行が始まる。新しい文学の扉をひらいた村上春樹の代表作長編。",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "4062749122"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9784062749121"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 268,
+        "printType": "BOOK",
+        "categories": [
+          "Japan"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sM6aPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sM6aPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=sM6aPwAACAAJ&dq=inauthor:%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=sM6aPwAACAAJ&dq=inauthor:%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%E7%BE%8A%E3%82%92%E3%82%81%E3%81%90%E3%82%8B%E5%86%92%E9%99%BA.html?hl=&id=sM6aPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sM6aPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "あなたのことは今でも好きよ、という言葉を残して妻が出て行った。その後広告コピーの仕事を通して、耳専門のモデルをしている二十一歳の女性が新しいガール・フレンドとな ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TvgIAQAAMAAJ",
+      "etag": "OtEqb7Pjv70",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TvgIAQAAMAAJ",
+      "volumeInfo": {
+        "title": "もし僕らのことばがウィスキーであったなら",
+        "authors": [
+          "村上春樹"
+        ],
+        "publishedDate": "1999-12",
+        "description": "村上春樹が旅立ったウィスキーの聖地巡礼",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000050253463"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 134,
+        "printType": "BOOK",
+        "categories": [
+          "Ireland"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TvgIAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TvgIAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=TvgIAQAAMAAJ&dq=inauthor:%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=TvgIAQAAMAAJ&dq=inauthor:%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%E3%82%82%E3%81%97%E5%83%95%E3%82%89%E3%81%AE%E3%81%93%E3%81%A8%E3%81%B0%E3%81%8C%E3%82%A6%E3%82%A3%E3%82%B9%E3%82%AD.html?hl=&id=TvgIAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TvgIAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "村上春樹が旅立ったウィスキーの聖地巡礼"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5dMrAQAAIAAJ",
+      "etag": "nvtnWaZ3YwE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5dMrAQAAIAAJ",
+      "volumeInfo": {
+        "title": "世界の終りとハードボイルド・ワンダーランド上",
+        "authors": [
+          "村上春樹"
+        ],
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSD:31822025824962"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 410,
+        "printType": "BOOK",
+        "categories": [
+          "Adventure stories"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5dMrAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5dMrAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=5dMrAQAAIAAJ&dq=inauthor:%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=5dMrAQAAIAAJ&dq=inauthor:%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%E4%B8%96%E7%95%8C%E3%81%AE%E7%B5%82%E3%82%8A%E3%81%A8%E3%83%8F%E3%83%BC%E3%83%89%E3%83%9C%E3%82%A4%E3%83%AB%E3%83%89.html?hl=&id=5dMrAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5dMrAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}
